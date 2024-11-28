@@ -17,3 +17,6 @@
 1. cd to the repo
 2. Run Build for iOS
     * run `react-native run-ios`
+      
+
+alex
